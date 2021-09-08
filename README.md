@@ -1,6 +1,7 @@
 ##                                                      Hello World !! 
  	 Developer Front End 💻✨
-    Passionate about technology, and also a front-end student. 💜
+   Passionate about technology, and also a front-end student. 💜
+   Jogadora de Lol nas horas vagas 
 
 
  <div>
