@@ -3,7 +3,7 @@
    
  *  Passionate about technology, and also a front-end student. 💜
  *  Jogadora de Lol nas horas vagas 
- *  Design - Utilizo o Figma para fazer o protótipo de cada aplicação 
+ *  Designer - Utilizo o Figma para fazer o protótipo de cada aplicação 
 
 
  <div>
