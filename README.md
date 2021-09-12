@@ -2,13 +2,12 @@
  	 Developer Front End 💻✨
    
  *  Passionate about technology, and also a front-end student. 💜
- *  Jogadora de Lol nas horas vagas 
- *  Designer - Utilizo o Figma para fazer o protótipo de cada aplicação 
 
 
  <div>
   <a href="https://github.com/natfirmino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
