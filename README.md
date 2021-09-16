@@ -1,7 +1,11 @@
-##                                                      Hello World !! 
- 	 Developer Front End 💻✨
+##                                                     Hello World !! 
+ 
    
  *  Passionate about technology, and also a front-end student. 💜
+ *  Developer Front End 💻✨ 
+ *  Técnica em Informática👩‍🔧  
+ *  Jogadora de LOL nas horas vagas🎮!!
+  
  <div>
   <a href="https://github.com/natfirmino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
