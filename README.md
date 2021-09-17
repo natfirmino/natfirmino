@@ -1,7 +1,7 @@
 ##                                                     Hello World !! 
  
    
- *  Passionate about technology, and also a front-end student. 💜
+ *  Passionate about technology 💜
  *  Developer Front End 💻✨ 
  *  Técnica em Informática👩‍🔧  
  *  Jogadora de LOL nas horas vagas🎮!!
