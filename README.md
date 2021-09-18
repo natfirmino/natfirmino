@@ -16,6 +16,7 @@
   <img align="center" alt="Nat-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nat-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nat-Java" height="60" width="40" src="https://img-premium.flaticon.com/png/128/5433/premium/5433712.png?token=exp=1631991298~hmac=82c1ed9d62945fced4eccd178ba3764f">
 </div>
   
   ##
