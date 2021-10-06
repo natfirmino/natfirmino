@@ -5,6 +5,7 @@
  *  Developer Front End 💻✨ 
  *  Técnica em Informática👩‍🔧  
  *  Jogadora de LOL nas horas vagas🎮!!
+ *  English student📚
   
  <div>
   <a href="https://github.com/natfirmino">
