@@ -1,4 +1,4 @@
-##                                                     Hello World !! 
+##                                                  HELLO WORLD 💜
  
  *  Passionate about technology 💜
  *  Developer Front End 💻✨ 
