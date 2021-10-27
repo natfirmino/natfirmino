@@ -8,7 +8,7 @@
  
  *  Passionate about technology 💜
  *  Developer Front End 💻✨ 
- *  Técnica em Informática👩‍🔧  
+ *  Computer technician👩‍🔧  
  *  English student📚
       
    
