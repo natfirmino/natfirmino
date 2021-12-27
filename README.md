@@ -6,10 +6,7 @@
     <a href = "mailto:nataliefirmino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- *  Passionate about technology 💜
- *  Developer Front End 💻✨ 
- *  Computer technician👩‍🔧  
- *  English student📚
+ *  Developer Front End 💻✨| Computer technician👩‍🔧
       
    
  <div>
