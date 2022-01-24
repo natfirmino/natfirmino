@@ -7,8 +7,8 @@
  </div>
  
 <br>
- *  I'm a Computer Technician and I study Web Development (Front end) 👩‍🔧 <br>
- *  I have been delving into Design, where I use Figma to prototype and develop 💻
+ <p>I am extremely passionate about technology and programming/development. I recently graduated, I'm a Computer Technician and Web Development student and I have skills with Html, CSS and Javascript 👩🏻‍💻. I already had studies focused on Java, Python and PHP (back end) but the Front end area was what left me dazzled by the development. I study a little about Design to facilitate the elaboration of project prototypes and I use Figma as software.
+ Currently I will study Systems Development 💻👩👩🏽‍💻🥰❤</p>
  <img src="https://media2.giphy.com/media/j6ZhcAyUctYrj2ueBi/200.webp?cid=790b7611r2upfmzm662vs2t81fo6izs6rx0aj0qr519w1hzc&rid=200.webp&ct=s" width="150px">
       
    
@@ -23,7 +23,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="figma" src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px"/>
+  
 </div>
  
  ##
