@@ -42,7 +42,7 @@ Currently I will study Systems Development 💻 ✨
 
  
 <div align="right">
-<img src ="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="250px">
+<img src ="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px">
  </div>
 
 
