@@ -10,14 +10,6 @@
 Currently I will study Systems Development 💻 ✨
  </li>
   <br>
- 
-  <div align="left">
-  <ul>
-   <p>Resumos</p>
-  <li><a href="https://www.notion.so/Inform-tica-b-sica-Resumo-b498c84a706d44e8b438789e852d7abf">Informática Básica</a></li>
-   </ul>
-  </div>
-<br>
 
  <div alig="center>
   <a href="https://github.com/natfirmino">
