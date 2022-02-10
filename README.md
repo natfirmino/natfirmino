@@ -8,7 +8,15 @@
  <ul>
  <li> I'm a Computer Technician and Front End Developer 👩🏻‍💻. I've had studies focused on Java, Python and PHP (back end) but the Front end area was what interested me the most in development.
 Currently I will study Systems Development 💻 ✨
-</ul> 
+ </li>
+  <br>
+ 
+  <div align="left">
+  <ul>
+   <p>Resumos</p>
+  <li><a href="https://www.notion.so/Inform-tica-b-sica-Resumo-b498c84a706d44e8b438789e852d7abf">Informática Básica</a></li>
+   </ul>
+  </div>
 <br>
 
  <div alig="center>
