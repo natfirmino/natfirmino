@@ -7,7 +7,7 @@
 <br>
   <div align="center">
  <ul>
- <h3> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </h3>
+<code><h4> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </h4></code>
 </ul>
   <br>
 
