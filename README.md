@@ -6,9 +6,9 @@
 </div>
 <br>
  <ul>
- <li> I'm a Computer Technician and Front End Developer 👩🏻‍💻. I've had studies focused on Java, Python and PHP (back end) but the Front end area was what interested me the most in development.
-Currently I will study Systems Development 💻 ✨
- </li>
+ <li> Acadêmica de Desenvolvimento de Sistemas 💻 </li>
+<li> Técnica em Informática 👩🏻‍🔧</li> 
+<li> Desenvolvedora Front end 👩🏻‍💻 </li> 
   <br>
 
  <div alig="center>
