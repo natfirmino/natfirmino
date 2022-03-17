@@ -5,10 +5,12 @@
 <img alt="Nat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_qzAO_q3ox-fEbABN2QndwNq6_WqjR6ytA&usqp=CAU">
 </div>
 <br>
+
  <ul>
- <li> Acadêmica de Desenvolvimento de Sistemas 💻 </li>
-<li> Técnica em Informática 👩🏻‍🔧</li> 
-<li> Desenvolvedora Front end 👩🏻‍💻 </li> 
+ <li> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </li>
+
+</ul>
+
   <br>
 
  <div alig="center>
