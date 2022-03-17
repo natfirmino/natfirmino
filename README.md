@@ -2,18 +2,16 @@
 <br>
 
  <div align="center">
-<img alt="Nat" src="">
+<img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
 </div>
 <br>
-
+  <div align="center">
  <ul>
- <li> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </li>
-
+ <h3> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </h3>
 </ul>
-
   <br>
 
- <div alig="center>
+ <div align="center>
   <a href="https://github.com/natfirmino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natfirmino&layout=compact&langs_count=7&theme=dracula"/><br>
