@@ -7,7 +7,10 @@
 <br>
   <div align="center">
  <ul>
-<code><h4> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓 | Técnica em Informática 👩 | Desenvolvedora Front end💻 </h4></code>
+<h4> Acadêmica de Desenvolvimento de Sistemas 👩‍🎓
+ <h4>Técnica em Informática 👩 </h4> 
+ <h4>Desenvolvedora Front end 💻 </h4>
+ <h4> Suporte Técnico 💻 </h4>
 </ul>
   <br>
 
@@ -40,11 +43,6 @@
 
  
   ![Snake animation](https://github.com/natfirmino/TesteNat/blob/output/github-contribution-grid-snake.svg)
-
- 
-<div align="right">
-<img src ="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="100px">
- </div>
 
 
 
