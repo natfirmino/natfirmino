@@ -1,11 +1,33 @@
-##                                        <div align="center">      Hi, I'm Nataline Firmino ✨</div>
-<br>
 
- <div align="center">
-<img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
+
+### About me  <img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="40px" max-width="40px" width="60px" align="center">
+
+Hey !! I'm Nataline Firmino 
+
+I'm a computer technician graduated in 2021, I'm currently an academic of Systems Development where I got through the selection process.
+I work in the IT Technical Support area, I also study technologies related to front end development – I'm a developer.
+I have always been passionate about technology and development, and this has facilitated many things in my studies and results... 
+
+
+
+### Technologies
+<li>
+
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+
+</li>
+
+
+
+
+
+
 <br>
-  <div align="center">
+ 
  
   <br>
 
@@ -16,15 +38,7 @@
 </div>
  
 <br>
- <p>
- Skills</p>
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
-<br>
+
  
   <div>
  <p>Contact : </p> 
