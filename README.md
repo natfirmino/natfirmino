@@ -2,12 +2,10 @@
 
 ### About me  <img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="40px" max-width="40px" width="60px" align="center">
 
-Hey !! I'm Nataline Firmino 
 
-I'm a computer technician graduated in 2021, I'm currently an academic of Systems Development where I got through the selection process.
-I work in the IT Technical Support area, I also study technologies related to front end development – I'm a developer.
-I have always been passionate about technology and development, and this has facilitated many things in my studies and results... 
 
+Olá !! Meu nome é Nataline, sou manauara e apaixonada por tecnologia.
+Formada em Técnico em Informática, e em breve graduanda em Engenharia de Software - Fucapi. Atualmente trabalho na área de Suporte Técnico, e desenvolvo pequenos códigos para trabalhos internos. Gosto muito de resolver problemas e criar soluções!! Amo trabalhar em equipe, com objetivos bem definidos para o bom funcionamento em geral. 
 
 
 ### Technologies
