@@ -1,11 +1,14 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F686BD&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F686BD&size=35&center=true&vCenter=true&width=1000&lines=Hello+World.+:%29)](https://git.io/typing-svg)
 
 ### About me  <img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="40px" max-width="40px" width="60px" align="center">
 
 
 
 Olá !! Meu nome é Nataline, sou manauara e apaixonada por tecnologia.
-Formada em Técnico em Informática, e em breve graduanda em Engenharia de Software - Fucapi. Atualmente trabalho na área de Suporte Técnico, e desenvolvo pequenos códigos para trabalhos internos. Gosto muito de resolver problemas e criar soluções!! Amo trabalhar em equipe, com objetivos bem definidos para o bom funcionamento em geral. 
+Formada em Técnico em Informática, e em breve graduanda em Engenharia de Software - Fucapi. Atualmente trabalho na área de Suporte Técnico !!
 
 
 ### Technologies
