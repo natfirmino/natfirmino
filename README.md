@@ -10,6 +10,10 @@
 Olá!! Meu nome é Nataline Firmino <br>
 Formada em Técnico em Informática e graduanda em Engenharia de Software.
 
+  <a href="https://github.com/natfirmino">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Habilidades
  <p> Algumas das tecnologias que utilizo e estudo !! 
@@ -54,7 +58,11 @@ Formada em Técnico em Informática e graduanda em Engenharia de Software.
 
 
 
-
+<h6>Visitor's Count</h6>
+ 
+<div>
+<p style="font-size: 4px;"><img src="https://profile-counter.glitch.me/{natfirmino}/count.svg" alt="natfirmino :: " /></p>
+</div>
 
 
 
