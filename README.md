@@ -33,10 +33,6 @@ Formada em Técnico em Informática e graduanda em Engenharia de Software.
 
 
 
-
-
-<br>
- 
   <br>
   
  ### Contatos : 
