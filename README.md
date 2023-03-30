@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello+World.+:%29)](https://git.io/typing-svg)
 
+  <a href="https://github.com/natfirmino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+
 ###   <img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="40px" max-width="40px" width="60px" align="center">
 
 
