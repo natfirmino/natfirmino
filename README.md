@@ -13,7 +13,8 @@
 
 
 
-Formada em Técnico em Informática e graduanda em Engenharia de Software.<br>
+<li>Técnico em Informática</li>
+<li>Graduanda em Engenharia de Software.<br></li>
 
 ### Habilidades
  <p> Algumas das tecnologias que utilizo e estudo !! 
