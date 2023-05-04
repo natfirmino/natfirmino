@@ -1,20 +1,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Nataline+Firmino.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello+World.+:%29)](https://git.io/typing-svg)
 
   <a href="https://github.com/natfirmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-###   <img alt="Nat" src="https://github.com/natfirmino/natfirmino/blob/main/computer-illustration.png" min-width="40px" max-width="40px" width="60px" align="center">
 
 
-
-
-<li>Técnico em Informática</li>
-<li>Graduanda em Engenharia de Software.<br></li>
 
 ### Habilidades
  <p> Algumas das tecnologias que utilizo e estudo !! 
