@@ -1,6 +1,7 @@
 <h3>Olá, sou Nataline Firmino</h3>
 
-<p>Sou Técnica em Informática e graduanda em Engenharia de Software</p>
+<p><li>Técnica em Informática 
+<li>Graduanda em Engenharia de Software</li> </li></p>
 
 
 ### Habilidades
