@@ -1,14 +1,6 @@
+<h3>Olá, sou Nataline Firmino</h3>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello+World.+:%29)](https://git.io/typing-svg)
-
-  <a href="https://github.com/natfirmino">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-
+<p>Sou Técnica em Informática e graduanda em Engenharia de Software</p>
 
 
 ### Habilidades
