@@ -1,22 +1,16 @@
 
 Hey!! Sou Nataline Firmino
 
-Sou Técnica em Informática formada em 2021. Atualmente sou acadêmica de Engenharia de Software pela Faculdade FUCAPI (Fundação Centro de Análise, Pesquisa e Inovação Tecnológica). 
+Sou Técnica em Informática formada em 2021. Atualmente sou acadêmica de Engenharia de Software pela Faculdade FUCAPI. Atualmente eu trabalho na área de Suporte técnico em TI, quero aprimorar meus conhecimentos em programação para ser relevante em desenvolvimento de sistemas na área que trabalho. 
 
+Tecnologias
+<ul>
+          <li>HMTL, CSS e JavaScript</li>
+           <li>Pyhton</li>
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&show_icons=true&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&theme=dracula">
-</div>
-
-
-### Tecnologias
-- Front-end: HTML, CSS e Javascript,
-- Banco de Dados - SQL
           
-</div>
+</ul>
 
-</li>
 
  
   
