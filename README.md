@@ -5,8 +5,7 @@
 
 Hey!! Sou Nataline Firmino 
 
-Sou técnica em informática, graduanda em Engenharia de Software e Redes de Computadores. Gosto muito da área de hardwares e desenvolvimento em destaque: front end. 
-
+Sou técnica em informática, graduanda em Engenharia de Software e Redes de Computadores. Gosto muito da área de hardwares e desenvolvimento front end.
 Tecnologias
 <div>
   <a href="https://github.com/natfirmino">
