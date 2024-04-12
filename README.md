@@ -1,15 +1,26 @@
+<!-- ###### HEAD ##### -->
 
-Hey!! Sou Nataline Firmino
 
-Sou Técnica em Informática formada em 2021. Atualmente sou acadêmica de Engenharia de Software pela Faculdade FUCAPI. Atualmente eu trabalho na área de Suporte técnico em TI, quero aprimorar meus conhecimentos em programação para ser relevante em desenvolvimento de sistemas na área que trabalho. 
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+Hey!! Sou Nataline Firmino 
+
+Sou técnica em informática, graduanda em Engenharia de Software e Redes de Computadores. Gosto muito da área de hardwares e desenvolvimento em destaque: front end. 
 
 Tecnologias
-<ul>
-          <li>HMTL, CSS e JavaScript</li>
-           <li>Pyhton</li>
+<div>
+  <a href="https://github.com/natfirmino">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natfirmino&theme=synthwave&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfirmino&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
-          
-</ul>
+ ## 🖥️ Tecnologias 
+ <ul>
+           <li>HTML</li>
+           <li>CSS</li>
+           <li>JavaScript</li>
+           <li>Python</li>
+ </ul>
 
 
  
