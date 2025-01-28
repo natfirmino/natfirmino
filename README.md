@@ -1,10 +1,5 @@
-<!-- ###### HEAD ##### -->
 
-
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,9,10&height=180&section=header&text&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-Hey!! Sou Nataline Firmino 
-
+💻| Técnica em Informática .<br>🎓| Estudante de Gestão em Tecnologia da Informação .<br>🔵| Connect with me at <a href="https://www.linkedin.com/in/nataline-firmino/">Linkedin</a>
 
 
 <div>
@@ -24,10 +19,6 @@ Hey!! Sou Nataline Firmino
 
  
   
- ### Contato : 
-- <a href="https://www.linkedin.com/in/nataline-firmino/">Linkedin</a>
-- <a href="firminonataline@gmail.com">E-mail</a>
-</div>
 
      
 
