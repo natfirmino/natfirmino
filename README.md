@@ -1,5 +1,5 @@
 
-💻| Técnica em Informática .<br>🎓| Estudante de Gestão em Tecnologia da Informação .<br>🔵| Connect with me at <a href="https://www.linkedin.com/in/nataline-firmino/">Linkedin</a>
+💻| Técnica em Informática .<br>🎓| Graduanda em Redes de Computadores .<br>🔵| Connect with me at <a href="https://www.linkedin.com/in/nataline-firmino/">Linkedin</a>
 
 
 <div>
@@ -14,6 +14,8 @@
            <li>CSS</li>
            <li>JavaScript</li>
            <li>PHP</li>
+           
+   
  </ul>
 
 
